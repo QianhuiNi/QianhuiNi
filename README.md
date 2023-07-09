@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently a Ph.D student majoring in Psychology. My research area is social cognitive development. 
-- 🌱 I’m currently learning python, html&css&js, data science, and UX research.
+- 🔭 I’m currently a Ph.D candidate majoring in Psychology. My research area is social cognitive development. 
+- 🌱 I’m currently learning python, html&css&js, data science, and Game user research.
 - 💬 Ask me about anything you want.
 - ⚡ Fun fact about me: I am a big fan of the book series "Ghost Blows Out the Light"👻🕯️🌬️
 
